@@ -11,7 +11,6 @@ Contact Form, made with GatsbyJS, using a Firebase Database integration as backe
     Navigate into the project directory and start it up.
 
     ```sh
-    cd my-default-starter/
     gatsby develop
     ```
 
