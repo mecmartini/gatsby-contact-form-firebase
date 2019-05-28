@@ -2,9 +2,7 @@
 
 Contact Form, made with GatsbyJS, that use a Firebase Database integration as backend to store data.
 
-<p align="center">
-  ![Contact Form](./screenshot.png "Contact Form")
-</p>
+![Contact Form](./screenshot.png "Contact Form")
 
 ## 🚀 Quick start
 
