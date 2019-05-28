@@ -19,20 +19,20 @@ Contact Form, made with GatsbyJS, using a Firebase Database integration as backe
 
     Your site is now running at `http://localhost:8000`!
 
-## Config
+1.  **Firebase config!**  
 
-To make it work you must add your Firebase Database credentials and config to **`src/utils/firebase.js`**:
+    To make it work you must add your Firebase Database credentials and config to **`src/utils/firebase.js`**:
 
-```javascript
-  const config = {
-    apiKey: "XXXXXXXXXXXXXXXXXXXXXX",
-    authDomain: "XXX.firebaseapp.com",
-    databaseURL: "https://XXX.firebaseio.com",
-    projectId: "XXX",
-    storageBucket: "XXX.appspot.com",
-    messagingSenderId: "XXXXXXXXXXXX",
-    appId: "X:XXXXXXXXXX:XXX:XXXXXXXXXX"
-  };
-```
+    ```javascript
+      const config = {
+        apiKey: "XXXXXXXXXXXXXXXXXXXXXX",
+        authDomain: "XXX.firebaseapp.com",
+        databaseURL: "https://XXX.firebaseio.com",
+        projectId: "XXX",
+        storageBucket: "XXX.appspot.com",
+        messagingSenderId: "XXXXXXXXXXXX",
+        appId: "X:XXXXXXXXXX:XXX:XXXXXXXXXX"
+      };
+    ```
 
-then navigate to `http://localhost:8000/contact` to see the Contact Form in action.
+    then navigate to `http://localhost:8000/contact` to see the Contact Form in action.
