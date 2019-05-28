@@ -6,7 +6,7 @@ Contact Form, made with GatsbyJS, using a Firebase Database integration as backe
 
 ## 🚀 Quick start
 
-1.  **Start developing.**
+1.  **Start developing**
 
     Navigate into the project directory and start it up.
 
@@ -15,11 +15,11 @@ Contact Form, made with GatsbyJS, using a Firebase Database integration as backe
     gatsby develop
     ```
 
-1.  **Open the source code and start editing!**
+1.  **Open the source code and start editing**
 
     Your site is now running at `http://localhost:8000`!
 
-1.  **Firebase config!**  
+1.  **Firebase config**  
 
     To make it work you must add your Firebase Database credentials and config to **`src/utils/firebase.js`**:
 
