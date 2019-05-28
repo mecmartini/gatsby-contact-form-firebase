@@ -1,6 +1,6 @@
 # Example of how to build a Contact Form for GatsbyJS with Firebase Database as backend
 
-Contact Form, made with GatsbyJS, that use a Firebase Database integration as backend to store data.
+Contact Form, made with GatsbyJS, using a Firebase Database integration as backend to store data.
 
 ![Contact Form](./screenshot.png "Contact Form")
 
