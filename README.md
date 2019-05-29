@@ -1,4 +1,5 @@
 # Example of how to build a Contact Form for GatsbyJS with Firebase Database as backend
+### by [SoulWeb Solutions](https://soulweb.it)
 
 Contact Form, made with [GatsbyJS](https://www.gatsbyjs.org/), using a [Firebase Realtime Database](https://www.gatsbyjs.org/) integration as backend to store data.
 
