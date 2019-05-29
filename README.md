@@ -9,7 +9,7 @@ Contact Form, made with [GatsbyJS](https://www.gatsbyjs.org/), using a [Firebase
 
 1.  **Start developing**
 
-    Navigate into the project directory and start it up.
+    Navigate into the project directory and start it up:
 
     ```sh
     gatsby develop
@@ -17,7 +17,7 @@ Contact Form, made with [GatsbyJS](https://www.gatsbyjs.org/), using a [Firebase
 
 1.  **Open the source code and start editing**
 
-    Your site is now running at `http://localhost:8000`!
+    Your site is now running at `http://localhost:8000`.
 
 1.  **Firebase config**  
 
@@ -37,7 +37,7 @@ Contact Form, made with [GatsbyJS](https://www.gatsbyjs.org/), using a [Firebase
 
 1.  **Database collection**
 
-    You can change the database collection used to store the data on **`src/components/contactForm.js`**
+    You can change the database collection used to store the data on **`src/components/contactForm.js`**:
 
     ```javascript
     handleSubmit = event => {
