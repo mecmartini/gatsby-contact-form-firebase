@@ -35,4 +35,24 @@ Contact Form, made with [GatsbyJS](https://www.gatsbyjs.org/), using a [Firebase
       };
     ```
 
-    then navigate to `http://localhost:8000/contact` to see the Contact Form in action.
+1.  **Database collection**
+
+    You can change the database collection used to store the data on **`src/components/contactForm.js`**
+
+    ```javascript
+    handleSubmit = event => {
+      ...
+
+      if (database) {
+        database.collection('contact').add({  // change contact with the name of your collection
+          ...
+        });
+      }
+
+      ...
+    }
+    ```
+
+1.  **Try it**
+
+    Navigate to `http://localhost:8000/contact` to see the Contact Form in action.
